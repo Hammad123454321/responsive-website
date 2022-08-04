@@ -1,0 +1,18 @@
+@media(max-width:54rem){
+   .highlight{
+    color: yellowgreen;
+   }
+   html{
+ font-size: 65%;
+   }
+}
+@media(max-width:42rem){
+    html{
+  
+    }
+}
+@media(max-width:34rem){
+    nav__link{
+        opacity: 0;
+    }
+}
